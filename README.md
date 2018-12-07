@@ -20,7 +20,7 @@ There are few parameters that can be modified in order to adjust the nature of f
 6. light_src_limit = maximum number of flares we want in the video at once.
 7. bright_increment = How much bright we want the flares to be. Increasing this value makes the flares brighter.
 
-## Download the dataset videos from google drive: https://drive.google.com/file/d/1cse7xKlZ03iok0HDsRqw__nNvzPtFnbr/view?usp=sharing
+## Download the dataset videos and generated outputs from google drive: https://drive.google.com/file/d/1cse7xKlZ03iok0HDsRqw__nNvzPtFnbr/view?usp=sharing
 ## and put the 'vid' folder where you have your script
 
 Once you adjust the above parameters, you can run the whole script. The output will be saved in the file specified.
