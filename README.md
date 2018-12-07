@@ -19,3 +19,5 @@ There are few parameters that can be modified in order to adjust the nature of f
 5. conn_comp_diam_limit = Cnnected component diameter. Each detected light source might not qualify as a flare source. So we  limit it by a diameter range. Saying that flares can only be within a diameter range(10-500pixels in our experiments)
 6. light_src_limit = maximum number of flares we want in the video at once.
 7. bright_increment = How much bright we want the flares to be. Increasing this value makes the flares brighter.
+
+Once you adjust the above parameters, you can run the whole script. The output will be saved in the file specified.
