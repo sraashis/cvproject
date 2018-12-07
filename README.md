@@ -1,8 +1,8 @@
 # cvproject
+## Aashis Khanal, Sam Mousavi
 Anamorphic lens simulation.
 Computer Vision Final project
 
-You will find one jupyter notebook file ana.ipynb.
 You need to install the latest version of the following packages to run this code:
 - numpy
 - python-opencv
@@ -10,7 +10,7 @@ You need to install the latest version of the following packages to run this cod
 - matplotlib
 - scipy 
 
-The entry of the program is titled as <b>main execution</b>. 
+The entry of the program is titled as <b>Main Execution</b>. 
 There are few parameters that can be modified in order to adjust the nature of flare we generate:
 1. input_video = Full path to input video
 2. output_video = full path of the output video file
